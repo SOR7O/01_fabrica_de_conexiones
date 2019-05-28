@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace _01_Fabrica_De_Conexiones
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("Una sencilla aplicacion");
+            //Crear, establecer y cerrar conexiones
         }
     }
 }
